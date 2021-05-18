@@ -125,3 +125,6 @@ dist
 *.iml
 *.idea/
 
+cypress/videos/*.mp4
+cypress/screenshots/**/*.png
+
