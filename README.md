@@ -1,3 +1,12 @@
+# About
+Contains a react testing library spec for verifying that the interaction with MUI Select works as expected and options can be shown.
+
+Additionally this repo contains also Cypress integration tests, which can be started by:
+* `npm run cypress:open` (Opens visual runner)
+* `npm run cypress:run` (Executes all tests headless on console)
+
+There exist two cypress tests, one will work (hacky workaround solution) and the other one will fail (although this should be working). 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
